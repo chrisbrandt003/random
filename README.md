@@ -4,7 +4,7 @@ A support library for generating randomness.
 
 ## Installation
 
-To install this function in your project, you can either clone this repository or install it via npm if it's published as a package.
+To install this function in your project, you can clone this repository.
 
 ### Clone the Repository
 
