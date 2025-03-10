@@ -23,7 +23,7 @@ To use the `indexOfWeightedValue` function in your project:
 ### Example
 
 ```js
-const { indexOfWeightedValue } = require('random');
+const { indexOfWeightedValue } = require('./random');
 
 // Define an array of values with associated weights
 const valueWeightMap = [
